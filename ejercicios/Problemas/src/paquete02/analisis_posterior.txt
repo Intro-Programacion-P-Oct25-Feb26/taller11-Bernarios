@@ -1,0 +1,6 @@
+Generar las funciones y retornar los datos es lo que mas se me complico porque
+no sabia como declarar la funcion para esta resiva los los datos que retornarian
+y al momento de ingresar los datos de la vivienda se me complico que la
+secuencia siga su curso de manera correcta y para finalizar al momento de
+presentar en pantalla el mensaje no lo podia hacer debido a que no lo habia
+declarado en la funcion principal

@@ -18,11 +18,10 @@ public class Problema2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String[] listaVivienda = obtenerViviendas();
-
-        double[][] matrizConsumo = obtenerConsumo(listaVivienda);
-
-        double[] totalesAnual = calcularSumaTotal(matrizConsumo);
+        String[] vivienda = obtenerViviendas();
+        double[][] matrizConsumo = obtenerConsumo(vivienda);
+        double[] totalAnual = calcularSumaTotal(matrizConsumo);
+        presentarReporte(vivienda, totalAnual);
     }
 
     public static String[] obtenerViviendas() {
