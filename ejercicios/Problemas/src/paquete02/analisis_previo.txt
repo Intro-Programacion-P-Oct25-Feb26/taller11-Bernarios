@@ -1,2 +1,5 @@
-Nos pide que escribamos varias funciones que nos permita, 
-bidimencionales y 
+Nos pide que escribamos varias funciones y que los datos sean ingresados 
+por teclado, tambien se hara uso de condicionales logicos que permitan sumar y
+seleccionar secuencialmente los valores, todos las funciones tienen que retornar
+los datos a la funcion principal, luego se necesita un proceso para luego 
+presentarlos en un reporte
