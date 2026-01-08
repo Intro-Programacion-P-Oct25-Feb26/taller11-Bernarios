@@ -1,0 +1,5 @@
+El ejercicio nos pide que recorran los datos presentados en una fila y colum-
+nas, se debe usar una condicion la cual permita seleccionar de manera secuencial
+los valores que estan en cada posicion para luego verificar si son numeros pares 
+y asi usar una condicion logica que los concadene y muestre en la pantalla de 
+acuerdo con el orden en el que fueron seleccionados.

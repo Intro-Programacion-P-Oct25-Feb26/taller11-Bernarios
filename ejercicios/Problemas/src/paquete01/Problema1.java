@@ -20,6 +20,17 @@ public class Problema1 {
     }
 
     public static void imprimirDatos(int[][] datos) {
+        String mensaje = "";
+        for (int i = 0; i < datos.length; i++) {
+
+            for (int j = 0; j < datos[i].length; j++) {
+
+                if (datos[i][j] % 2 == 0) {
+                    mensaje = mensaje + datos[i][j] + "-";
+                }
+            }
+        }
+        System.out.printf("Los numeros pares son: %s\n", mensaje);
 
     }
 
