@@ -1,0 +1,5 @@
+Necesitaremos una funcion principal desde donde pediremos al usuario que elija 
+una opcion la cual llamara a cualquier de los 3 procedimientos seleccionados
+cada procedimiento presentara en pantalla los resultados de una operacion para
+lo cual dentro de cada proceso primero es necesario ingresar por teclado los 
+valores requeridos por la operacion a realizar
