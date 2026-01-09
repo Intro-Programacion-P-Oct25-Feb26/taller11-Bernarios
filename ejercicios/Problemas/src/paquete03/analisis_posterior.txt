@@ -1,2 +1,5 @@
 Al igual que en el ejercico anterior, se  me complica al momento de llamar a la 
-funcion
+funcion y presentar el mensaje, estoy entendiendo de mejor manera como funciona
+la funcion y el porcediemiento al momento de tener que presentar un mensaje y 
+realizar la declaracion de sus datos, al igual, voy comprendiendo en como hacer
+para enviar los argumentos
