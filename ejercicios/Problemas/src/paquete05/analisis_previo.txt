@@ -1,0 +1,5 @@
+Nos pide que geremos una funcion pricipal que tendra dos arreglos con sus
+respectivos datos, en esta funcion se llamara a una segunda fucion que sumara
+los datos de los arreglos de la primera funcios envia como arguemntos y la
+segunda los recibe como argumentos, para ello se utiliza ciclos que selecionen
+los datos de manera secuencia para la suma de cada uno de ellos

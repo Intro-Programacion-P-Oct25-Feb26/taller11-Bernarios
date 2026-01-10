@@ -1,0 +1,5 @@
+El ejercico se me complica en el momento de aplicar los ciclos repetitivos, pues
+el hacer que los valores correspondientes se sumen entre si me a supusto un reto
+basandome en el ejercicio 2 oude darme una idea de como podia solucionar el
+problema, aun me falta mucho por entender en cuanto a la resolucion de este tipo
+de ploblemas
