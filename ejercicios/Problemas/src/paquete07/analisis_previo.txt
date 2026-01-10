@@ -1,0 +1,6 @@
+Nos pide generar una funcion principal desde la cual se invocara a otra funcion
+en la cual se ingresara por teclado el numero de elementos para un arreglo
+de tipo cadena en el cual de iran llenando los espacios del arreglo con los 
+nombres de cuidades para lo cual se necesitara un ciclo repetitivo.Desde la
+misma funcion principal se llamar a un procedimiento el cual mediante un ciclo 
+compara y presentara los datos que cumplan ci¿on una condicion

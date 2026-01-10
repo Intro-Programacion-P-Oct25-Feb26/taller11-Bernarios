@@ -1,0 +1,4 @@
+El declarar las funciones se me sigue complicando pero con un poco de ayuda
+lo pude solucionar, el momento de usar el ciclo para que asigne los datos a los
+espacios delarreglo tambie me confundio un poco, los ejemplos me ayudaron a
+poder resolver los problemas que se me presentaron 
