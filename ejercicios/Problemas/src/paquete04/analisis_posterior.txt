@@ -1,0 +1,5 @@
+El ejercicio se me hizo un poco mas facil de realizarlo, tuve algunos problemas 
+al tratar de enviar argumentos de tipo double y recibirlos en parametros de tipo
+cadena, aun no lo tengo muy claro como se realizaba la recepcion de los datos
+en los parametros pero con los ejemplos anteriores me guio para poderle dar
+solucion a los errores que cometo

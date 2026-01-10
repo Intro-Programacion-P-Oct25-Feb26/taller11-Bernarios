@@ -1,0 +1,4 @@
+En este ejercicio se pide que se ingrese varios datos para realizar calculos
+para lo cual haremos uso de condicionales y dos procedimientos, cada uno ara una
+operacion diferente y presentara en pantalla el resultado, tambienaremos uso de 
+arreglos unidimencionales para enviar los argumentos
