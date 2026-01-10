@@ -1,0 +1,4 @@
+En este ejercicio se me hizo un poco mas facil que el anterior debido a que
+aqui tan solo hay un arreglo unidimencional lo que provoco que no me confunda
+tanto al momento de realicar los ciclos dentro de las funciones para luego
+retornarlas

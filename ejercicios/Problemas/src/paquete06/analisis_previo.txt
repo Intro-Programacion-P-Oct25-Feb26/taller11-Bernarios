@@ -1,0 +1,5 @@
+Se requiere de una funcion principal desde la cual se llama a una funcion que
+que sacara los promedios de los valores del arreglo unidimencional declarado en
+la funcion princila y tambien llamara a otra funcion que realizara la operacion
+matematica pra obtener la desviacion que luego retornaran a la funcion principal
+para presentar en pantalla luego de ser retornados
